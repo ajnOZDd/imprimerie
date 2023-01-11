@@ -1,0 +1,16 @@
+.body_employer{
+    
+    background:linear-gradient(50deg ,#65d1ca,#65d1ca,#fdb940,#fdb940 );
+    
+}
+#nom,#prenom,#age,#genre, #datetime, #specialite {
+    color: #757575;
+    border: 2px solid #0d971f;
+    background:transparent;
+    text-overflow: ellipsis;
+}
+.employer_input{
+   margin-left:50vw;
+   margin-top:50vw;
+   display: block;
+}
